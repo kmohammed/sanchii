@@ -1,0 +1,12 @@
+{
+  "name": "sanchii",
+  "version": "1.0.0",
+  "description": "Sanchii web application",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "kmohammed",
+  "license": "ISC"
+}
